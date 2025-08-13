@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Ravindra Naik</h1>
+<h1 align="center">Welcome to Ravindra Naik and Charan</h1>
 <h1 align="center"> Ravindra Naik... DEVOPS</h1>
 <hr>
 <br>
